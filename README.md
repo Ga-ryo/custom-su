@@ -1,0 +1,5 @@
+custome SU
+
+最近のSuperSUは色々やってて良く分からんし、かと言ってEmulatorに最初から入ってるsuはapp権限から呼べない。
+
+注) Security落ちるから実際の端末に使わないように。app権限でroot取られちゃうからね。
