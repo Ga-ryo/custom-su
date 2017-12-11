@@ -1,4 +1,4 @@
-custome SU
+custom SU
 
 最近のSuperSUは色々やってて良く分からんし、かと言ってEmulatorに最初から入ってるsuはapp権限から呼べない。
 
